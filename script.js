@@ -12,6 +12,6 @@ function initMap() {
 
 // Load the Google Maps script
 var script = document.createElement('script');
-script.src = `https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap`;
+script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCgNzOlwZbQcUKeXcHrt5egCyP4uhExpLQ&callback=initMap`;
 script.async = true;
 document.head.appendChild(script);
