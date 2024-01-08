@@ -48,6 +48,10 @@ section {
     padding: 20px 0;
     border-bottom: 1px solid #eaeaea;
 }
+#map {
+    height: 400px; /* or any other height */
+    width: 100%;
+}
 
 footer {
     background-color: #333;
